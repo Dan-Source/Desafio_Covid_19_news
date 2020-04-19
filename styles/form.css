@@ -1,0 +1,24 @@
+label{
+    font: 400 1.5rem/1.2 "Roboto"; color: hsl(000, 	0%, 33%);
+
+}
+
+input[type=text], textarea, label{
+    width: 90%;
+    font: 400 1.0rem/1.5 "Roboto"; color: hsl(000,   0%, 33%);
+    padding: 12px;
+    border-radius: 0.5em;
+    box-sizing: border-box;
+}
+input[type=submit]{
+    background-color: hsl(250, 100%, 67%);
+    color: hsl(55, 100%, 75%);
+    padding: 2%;
+    border-radius:0.5em;
+    cursor: pointer;
+}
+
+input[type=submit]:hover{
+    background-color: hsl(55, 100%, 75%);
+    color:hsl(250, 100%, 67%);
+}

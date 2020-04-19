@@ -1,0 +1,23 @@
+.center{
+    margin: auto;
+    padding: 5%;
+}
+
+.center audio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 2%;
+}
+
+.center iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+}
+
+ul{
+    list-style-type: none;
+}
